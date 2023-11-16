@@ -28,9 +28,3 @@ Complete the `reachable` implementation and test with `test_reachable`. Think ab
 
 
 **7** What if we switched the graph representation to an adjacency matrix? Would the work of `reachable` change? If so, what would it be? If not, why not?
-
-**put answer in answers.md**  
-
-.  
-.  
-.  

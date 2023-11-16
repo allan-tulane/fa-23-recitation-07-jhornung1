@@ -13,4 +13,4 @@ Place all written answers from `recitation-07.md` here for easier grading.
 
 - **5)** The work of `connected` is also O(n + m) for the same reason that `reachable` is.
 
-- **7)**
+- **7)** The work would not change as regardless of adjency matrix or graph we have to go through every single node, which is the same work for both types.

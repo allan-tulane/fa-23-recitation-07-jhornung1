@@ -1,5 +1,4 @@
-from main_sol import *
-import main
+from main import make_undirected_graph, reachable, connected, n_components
 
 def test_reachable():
     graph = make_undirected_graph([('A', 'B'), ('B', 'C'), ('C', 'D'), ('D', 'B')])
